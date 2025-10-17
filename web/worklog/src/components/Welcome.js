@@ -9,7 +9,7 @@ class Welcome extends React.Component {
 			<Container>
 				<Row>
 					<Col sm={{size: 6, offset: 5}}>
-						<h1>HelloWorld</h1>
+						<h1>HelloWorld_retry</h1>
 					</Col>
 				</Row>
 				<Row>
